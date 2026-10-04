@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 322" width="960" height="322" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="960" height="322" rx="14" fill="#0d1117"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#eab308"/></marker></defs>
+<text x="165.0" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">INPUTS</text>
+<rect x="40" y="144.0" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="165.0" y="169.5" fill="#e6edf3" font-size="14" text-anchor="middle">WhatsApp message (Twilio,</text>
+<text x="165.0" y="186.5" fill="#e6edf3" font-size="14" text-anchor="middle">signature-verified)</text>
+<text x="480.0" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">CORE</text>
+<rect x="355" y="70.0" width="250" height="58" rx="9" fill="#11251a" stroke="#eab308" stroke-width="1.5"/>
+<text x="480.0" y="95.5" fill="#e6edf3" font-size="14" text-anchor="middle">Language detection with</text>
+<text x="480.0" y="112.5" fill="#e6edf3" font-size="14" text-anchor="middle">confidence</text>
+<rect x="355" y="144.0" width="250" height="58" rx="9" fill="#11251a" stroke="#eab308" stroke-width="1.5"/>
+<text x="480.0" y="178.0" fill="#e6edf3" font-size="14" text-anchor="middle">KB-grounded reply generation</text>
+<rect x="355" y="218.0" width="250" height="58" rx="9" fill="#11251a" stroke="#eab308" stroke-width="1.5"/>
+<text x="480.0" y="252.0" fill="#e6edf3" font-size="14" text-anchor="middle">Escalation rules</text>
+<text x="795.0" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">OUTPUTS</text>
+<rect x="670" y="70.0" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="795.0" y="104.0" fill="#e6edf3" font-size="14" text-anchor="middle">Reply in customer&#x27;s language</text>
+<rect x="670" y="144.0" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="795.0" y="178.0" fill="#e6edf3" font-size="14" text-anchor="middle">Telegram escalation</text>
+<rect x="670" y="218.0" width="250" height="58" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="795.0" y="252.0" fill="#e6edf3" font-size="14" text-anchor="middle">Language coverage stats</text>
+<path d="M290,173.0 C340,173.0 305,173.0 351,173.0" stroke="#eab308" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M605,173.0 C655,173.0 620,99.0 666,99.0" stroke="#eab308" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M605,173.0 C655,173.0 620,173.0 666,173.0" stroke="#eab308" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+<path d="M605,173.0 C655,173.0 620,247.0 666,247.0" stroke="#eab308" stroke-opacity=".7" fill="none" stroke-width="1.6" marker-end="url(#a)"/>
+</svg>
