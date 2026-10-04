@@ -43,6 +43,10 @@ Support teams cannot staff every language customers write in. This agent detects
 
 ![Language coverage and live test box](assets/00-dashboard.png)
 
+**API surface: agent, knowledge base, stats**
+
+![API surface: agent, knowledge base, stats](assets/10-api.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
