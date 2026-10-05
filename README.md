@@ -39,6 +39,8 @@ Support teams cannot staff every language customers write in. This agent detects
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Language coverage and live test box**
 
 ![Language coverage and live test box](assets/00-dashboard.png)
